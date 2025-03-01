@@ -9,5 +9,12 @@ Developed By: Ravi Kumar Malhotra
   - Containers
   - Dockers
   - Container Registry
+ 
+Here is an official documentation link for understanding containers technology in Azure
+https://learn.microsoft.com/en-us/azure/?product=containers
+
+!Images - These all containers technologies offered by Azure
+![image](https://github.com/user-attachments/assets/6cc43bc2-e869-4a25-a450-91ae64b0bdf8)
+
 
 
